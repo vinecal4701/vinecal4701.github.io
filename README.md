@@ -2,19 +2,11 @@
 
 C++ Programming class
 
-## Table of Contents
+## About Me
+Hi there! I'm a student passionate about programming and continuous learning. Currently focusing on developing my skills in software development and exploring various programming languages and technologies.
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## About
-
-C++ Programming class
+## Projects
+https://github.com/vinecal4701/CSC-134/blob/main/Module%207/C__%20Final%20Project%20Game.twee
 
 ### Built With
 
@@ -22,12 +14,6 @@ C++ Programming class
 - C++
 - C
 - Python
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Installation
 
@@ -37,20 +23,6 @@ git clone <repository_url>
 cd <repository_name>
 
 ```
-
-## Usage
-
-```
-# Example code would go here
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the No license information found - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
