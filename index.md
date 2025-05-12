@@ -15,14 +15,7 @@ Hi there! I'm a student passionate about programming and continuous learning. Cu
 - C
 - Python
 
-## Installation
 
-```bash
-# Clone this repository
-git clone <repository_url>
-cd <repository_name>
-
-```
 
 ## Contact
 
