@@ -20,6 +20,4 @@ Hi there! I'm a student passionate about programming and continuous learning. Cu
 
 
 ## Contact
-
-
-- Project Link: https://github.com/vinecal4701/CSC-134/blob/main/Module%207/C__%20Final%20Project%20Game.twee
+vineyarb4701@student.faytechcc.edu
